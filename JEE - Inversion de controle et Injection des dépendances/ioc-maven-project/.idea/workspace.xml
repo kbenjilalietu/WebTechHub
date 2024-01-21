@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2eef61b9-422b-416e-b874-870c34356b0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/dao/DaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/ext/DaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/ext/DoaImplVWS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/metier/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/pres/Presentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kb/practice/pres/Presentation_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dell/Desktop/Practice/Github/Architecture JEE et Middlewares/JEE - Inversion de controle et Injection des dépendances/ioc-maven-project/src/main/java/kb/practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "78fa940108271548a85b2caed33243a9",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/Desktop/Practice/Github/Architecture JEE et Middlewares/JEE - Inversion de controle et Injection des dépendances/ioc-maven-project/src/main/java/kb/practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;78fa940108271548a85b2caed33243a9&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dell\Desktop\Practice\Github\Architecture JEE et Middlewares\JEE - Inversion de controle et Injection des dépendances\ioc-maven-project\src\main\java\kb\practice" />
@@ -169,7 +160,10 @@
       <option name="presentableId" value="Default" />
       <updated>1704051029601</updated>
       <workItem from="1704051030321" duration="8232000" />
-      <workItem from="1704139183091" duration="3026000" />
+      <workItem from="1704139183091" duration="3617000" />
+      <workItem from="1705155285385" duration="731000" />
+      <workItem from="1705171378242" duration="361000" />
+      <workItem from="1705171775753" duration="883000" />
     </task>
     <servers />
   </component>

@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d796187-95c3-41b9-bbc6-c90155018cdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/dao/DaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/ext/DaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/ext/DoaImplVWS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/metier/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/pres/Presentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ioc-maven-project/src/main/java/kb/practice/pres/Presentation_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ioc-maven-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ioc-maven-project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="metier" />
@@ -108,6 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704025095891</updated>
       <workItem from="1704025096273" duration="9662000" />
+      <workItem from="1705172807198" duration="1030000" />
+      <workItem from="1705860908576" duration="494000" />
     </task>
     <servers />
   </component>
